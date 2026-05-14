@@ -163,7 +163,7 @@ Assunto: Voluntariado NOSS
 
 A grade completa do evento está disponível em:
 
-👉 [grade-completa.md](grade-completa.md)
+👉 [grade_completa.md](grade_completa.md)
 
 ---
 
