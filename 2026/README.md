@@ -1,6 +1,6 @@
 # NOSS — Nosso Open Source Summit 2026
 
-[English Version](/README_EN.md)
+[English Version](README_EN.md)
 
 > O Brasil já constrói open source. Agora é hora de estruturar os nós.
 

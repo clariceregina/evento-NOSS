@@ -1,6 +1,6 @@
 # NOSS — Nosso Open Source Summit
 
-[Versão em Português](/README.md)
+[Versão em Português](README.md)
 
 ---
 
