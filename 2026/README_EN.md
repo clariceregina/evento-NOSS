@@ -1,6 +1,6 @@
 # NOSS — Nosso Open Source Summit
 
-[Versão em Português](/README.md)
+[Versão em Português](README.md)
 
 ---
 
@@ -166,7 +166,7 @@ For those getting started.
 ## 🗓️ Event Schedule
 
 👉 Access the full schedule:  
-https://github.com/cumbucadev/NOSS/blob/main/grade-completa.md
+https://github.com/cumbucadev/NOSS/blob/main/2026/grade_completa.md
 
 ---
 
@@ -190,7 +190,7 @@ Ways to support:
 - Brand presence  
 - Technical sessions (open source projects or real cases)  
 
-👉 Access the full sponsorship plan: [sponsorship-proposal.md](https://github.com/cumbucadev/NOSS/blob/main/2026/sponsorship-proposal.md)
+👉 Access the full sponsorship plan: [sponsorship_proposal.md](sponsorship_proposal.md)
 
 > Sponsored content must be technical and relevant — not purely promotional.
 
