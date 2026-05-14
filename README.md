@@ -22,7 +22,7 @@ O Brasil já constrói open source. Agora é hora de criar e fortalecer os nós.
 
 </div>
 
-[English Version](/README_EN.md)
+[English Version](README_EN.md)
 
 <div align='left'>
 
