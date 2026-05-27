@@ -54,8 +54,6 @@ No registration is required - just join and watch.
 > **That really helps YouTube recommend the event to more people and strengthens the visibility of**
 > **Brazilian open source initiatives 💜**
 
-Recordings will remain available after the event.
-
 ## 🌟 Who You'll Meet There
 
 <table>

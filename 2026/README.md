@@ -54,8 +54,6 @@ Não precisa se inscrever - é só entrar e assistir.
 > **Isso ajuda muito o YouTube a recomendar o evento para mais pessoas e fortalece a divulgação de**
 > **iniciativas open source brasileiras 💜**
 
-As gravações ficarão disponíveis após o evento.
-
 ## 🌟 Quem Você Encontrará por Lá
 
 <table>
