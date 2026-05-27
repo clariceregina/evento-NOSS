@@ -67,7 +67,10 @@ Trilha introdutória para pessoas em início de jornada:
     </tr>
     <tr>
       <td><b>12:30 – 13:30</b></td>
-      <td colspan="2"><b>🚀 Apresente seu Projeto!</b></td>
+      <td colspan="2">
+        <sup><b>🚀 Apresente seu Projeto!</b></sup><br>
+        <p>Paulo Santana / Henderson Matsuura Sanches / Holmes / Nilton Pimentel /  camis moreira</p>
+      </td>
     </tr>
     <tr>
       <td><b>13:30 – 14:10</b></td>
