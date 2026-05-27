@@ -84,7 +84,7 @@ No registration is required - just join and watch.
     </td>
     <td align="center" width="100">
       <a href="./pessoas/cuducos.md">
-        <img src="https://ui-avatars.com/api/?name=Cuducos&size=80&rounded=true&background=e6a817&color=fff&bold=true" width="80" height="80"><br>
+        <img src="./assets/images/participantes/cuducos.jpg" width="80" height="80" style="border-radius:50%; object-fit:cover;"><br>
         <sub><b>Cuducos</b></sub>
       </a>
     </td>
